@@ -8,8 +8,6 @@ Notes,
 Please don't forget to change the colab notebook settings to GPU.
 Will try to upload for more complex and well known networks like Googlenet, Alexnet if get time.
 
-Issues:
-Getting Error while trying to download the trained model, though I think so its something to do with firewall.
 
 Please visit this tutorial of Adrian(PYimagesearch to get to know about the logic behind the layer definintion.)
 https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/
